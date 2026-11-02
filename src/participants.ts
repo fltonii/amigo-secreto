@@ -22,4 +22,4 @@ export const PARTICIPANTS = [
   'Aurora',
 ] as const
 
-export const PRICE_LIMIT = 'até R$ 100 (ou 18 €)'
+export const PRICE_LIMIT = 'até R$\u00a0100 (ou 18\u00a0€)'
